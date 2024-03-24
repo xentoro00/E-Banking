@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import {Page1} from './Page1';
 import { LoginForm as Login } from './LoginForm';
 import {Dashboard}  from './Dashboard';
-// import '@fortawesome/fontawesome-free/css/all.css';
+import '@fortawesome/fontawesome-free/css/all.css';
 
 
 
