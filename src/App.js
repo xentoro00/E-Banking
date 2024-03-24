@@ -14,7 +14,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         
-        <Route path="/" element={<Page1 />} />
+        <Route path="/Page1" element={<Page1 />} />
         <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
 
