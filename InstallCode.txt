@@ -1,0 +1,7 @@
+npm install react-router-dom
+
+
+npm install @fortawesome/fontawesome-free
+
+
+npm i bootstrap react-router-dom
